@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/despedida-sin-un-beso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Despedida sin un beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/despedida-sin-un-beso/) |
+| **Get License** | [Get a Licensing Quote for Despedida sin un beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/despedida-sin-un-beso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8c56bf77d50886d2131c77f04d4ee293455e425ebc970bc8ed14d2a4c3644f64` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

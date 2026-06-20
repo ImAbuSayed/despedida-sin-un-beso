@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Despedida sin un beso
+
+This log tracks the cryptographic history and versioning for the song **Despedida sin un beso** (despedida-sin-un-beso).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T08:35:50.243648 | `v1` | `8c56bf77d50886d2131c77f04d4ee293455e425ebc970bc8ed14d2a4c3644f64` | `c4d00753305957fd64738d36efb80198a5e712ed45531767d3b63dbca0482d6a` | `2026-06-20_despedida-sin-un-beso-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
