@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/despedida-sin-un-beso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Despedida sin un beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/despedida-sin-un-beso/) |
+| **Get License** | [Secure Licensing Rights for Despedida sin un beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/despedida-sin-un-beso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Despedida sin un beso, la noche nos queda
+> Tu cuerpo en la pista, me llama de lejos
+> No digas adiós, que esto no se termina
+> Sayed se pierde en tu boca, noche divina
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
